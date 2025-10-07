@@ -16,14 +16,15 @@
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: cornflowerblue;
+  background-color: lightblue;
   color: white;
 }
 
 nav {
   width: 100%;
-  background-color: tan;
-  color: navy;
+  font-size: 20px;/* font-size added*/
+  background-color: chocolate;/*color changed*/
+  color:wheat;
   position: fixed;
   top: 0;
   z-index: 2;
